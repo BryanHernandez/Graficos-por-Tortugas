@@ -1,0 +1,9 @@
+c:\users\nstar\onedrive\documentos\visual studio 2017\Projects\Graficos por tortugas\Graficos por tortugas\obj\Debug\Graficos por tortugas.csprojResolveAssemblyReference.cache
+c:\users\nstar\onedrive\documentos\visual studio 2017\Projects\Graficos por tortugas\Graficos por tortugas\obj\Debug\Graficos_por_tortugas.Form1.resources
+c:\users\nstar\onedrive\documentos\visual studio 2017\Projects\Graficos por tortugas\Graficos por tortugas\obj\Debug\Graficos_por_tortugas.Properties.Resources.resources
+c:\users\nstar\onedrive\documentos\visual studio 2017\Projects\Graficos por tortugas\Graficos por tortugas\obj\Debug\Graficos por tortugas.csproj.GenerateResource.Cache
+c:\users\nstar\onedrive\documentos\visual studio 2017\Projects\Graficos por tortugas\Graficos por tortugas\bin\Debug\Graficos por tortugas.exe.config
+c:\users\nstar\onedrive\documentos\visual studio 2017\Projects\Graficos por tortugas\Graficos por tortugas\bin\Debug\Graficos por tortugas.exe
+c:\users\nstar\onedrive\documentos\visual studio 2017\Projects\Graficos por tortugas\Graficos por tortugas\bin\Debug\Graficos por tortugas.pdb
+c:\users\nstar\onedrive\documentos\visual studio 2017\Projects\Graficos por tortugas\Graficos por tortugas\obj\Debug\Graficos por tortugas.exe
+c:\users\nstar\onedrive\documentos\visual studio 2017\Projects\Graficos por tortugas\Graficos por tortugas\obj\Debug\Graficos por tortugas.pdb
